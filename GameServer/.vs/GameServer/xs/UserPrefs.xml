@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{2B788C4C-0144-44FB-82DD-CDC476EF8CBB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ServerHandle.cs">
+    <Files>
+      <File FileName="Program.cs" Line="27" Column="14" />
+      <File FileName="Server.cs" Line="27" Column="50" />
+      <File FileName="GameLogin.cs" Line="11" Column="40" />
+      <File FileName="ServerHandle.cs" Line="20" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GameServer" expanded="True">
+            <Node name="GameServer" expanded="True">
+              <Node name="ServerHandle.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GameServer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

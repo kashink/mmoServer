@@ -1,0 +1,12 @@
+/Users/wafx.roberto/Documents/Estudo/Unity/mmoServer/GameServer/bin/Debug/netcoreapp3.1/GameServer.deps.json
+/Users/wafx.roberto/Documents/Estudo/Unity/mmoServer/GameServer/bin/Debug/netcoreapp3.1/GameServer.runtimeconfig.json
+/Users/wafx.roberto/Documents/Estudo/Unity/mmoServer/GameServer/bin/Debug/netcoreapp3.1/GameServer.runtimeconfig.dev.json
+/Users/wafx.roberto/Documents/Estudo/Unity/mmoServer/GameServer/bin/Debug/netcoreapp3.1/GameServer.dll
+/Users/wafx.roberto/Documents/Estudo/Unity/mmoServer/GameServer/bin/Debug/netcoreapp3.1/GameServer.pdb
+/Users/wafx.roberto/Documents/Estudo/Unity/mmoServer/GameServer/obj/Debug/netcoreapp3.1/GameServer.csprojAssemblyReference.cache
+/Users/wafx.roberto/Documents/Estudo/Unity/mmoServer/GameServer/obj/Debug/netcoreapp3.1/GameServer.AssemblyInfoInputs.cache
+/Users/wafx.roberto/Documents/Estudo/Unity/mmoServer/GameServer/obj/Debug/netcoreapp3.1/GameServer.AssemblyInfo.cs
+/Users/wafx.roberto/Documents/Estudo/Unity/mmoServer/GameServer/obj/Debug/netcoreapp3.1/GameServer.csproj.CoreCompileInputs.cache
+/Users/wafx.roberto/Documents/Estudo/Unity/mmoServer/GameServer/obj/Debug/netcoreapp3.1/GameServer.dll
+/Users/wafx.roberto/Documents/Estudo/Unity/mmoServer/GameServer/obj/Debug/netcoreapp3.1/GameServer.pdb
+/Users/wafx.roberto/Documents/Estudo/Unity/mmoServer/GameServer/obj/Debug/netcoreapp3.1/GameServer.genruntimeconfig.cache
