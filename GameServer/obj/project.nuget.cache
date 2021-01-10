@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vBrhh1HvzB4nGQlkBCHmZ+PSvn7hpe17FYNa/iEssKGyY7mdbDez8t7BjkLqg5/t/HgqftPK1MfaIYNemSfN1g==",
+  "dgSpecHash": "us+a/xKjVITLGY2zDP3/HmxMP1xpt2tkUGCCyVTF71s3zEAXIl2I4eM2HJNCdlDtiCqmMsJN+JxOr2KS4qi+QA==",
   "success": true,
   "projectFilePath": "/Users/wafx.roberto/Documents/Estudo/Unity/mmoServer/GameServer/GameServer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/wafx.roberto/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

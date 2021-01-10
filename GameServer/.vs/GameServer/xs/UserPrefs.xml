@@ -1,23 +1,20 @@
 ﻿<Properties StartupConfiguration="{2B788C4C-0144-44FB-82DD-CDC476EF8CBB}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ServerHandle.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Player.cs">
     <Files>
-      <File FileName="Program.cs" Line="27" Column="14" />
-      <File FileName="Server.cs" Line="27" Column="50" />
-      <File FileName="GameLogin.cs" Line="11" Column="40" />
-      <File FileName="ServerHandle.cs" Line="20" Column="10" />
+      <File FileName="Player.cs" Line="49" Column="33" />
+      <File FileName="ServerSend.cs" Line="88" Column="42" />
+      <File FileName="GameLogic.cs" Line="15" Column="45" />
+      <File FileName="Server.cs" Line="126" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="GameServer" expanded="True">
             <Node name="GameServer" expanded="True">
-              <Node name="ServerHandle.cs" selected="True" />
+              <Node name="Player.cs" selected="True" />
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
